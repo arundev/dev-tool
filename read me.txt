@@ -1,0 +1,2 @@
+1.set the variables in the "gc-settting.cmd" file
+2.excute the "gc-task.bat" bat file;
